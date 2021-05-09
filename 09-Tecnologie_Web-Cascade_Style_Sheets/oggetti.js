@@ -37,3 +37,10 @@ console.log(len)
 let x = "Nel mezzo del cammin di nostra vita mi ritrovai per una selva oscura,ché la diritta via era smarrita."
 let occ = x.match("vita");
 console.log(occ)
+
+//window.defaultStatus = "Testo personalizzato";
+console.log(navigator.appName)
+console.log(navigator.language)
+
+console.log(document.lastModified)
+console.log(document.body)
